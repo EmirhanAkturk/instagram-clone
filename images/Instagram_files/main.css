@@ -1,0 +1,162 @@
+body{
+	background-color: #f0f0f0;
+	margin: 0px;}
+a{
+	color: white;
+} 
+.header{	
+	position: relative;
+	padding-left: 120px;
+	height: 77px;
+	width: 1130px;
+	border-bottom: groove white 1px;
+	background-color: white;
+	margin: 0px;}
+.ustsol{
+	width: 299px;
+	height: 36px;
+	float: left;
+}
+.logo{ 
+	margin-top: 25px;
+	height: 24px;
+	width: 24px;
+	float: left;}
+.cizgi{
+	margin-top: 22.5px;
+	margin-left: 15px;
+	margin-right: 10px;
+	float: left;
+	width: 0.5px;
+	height: 28px;
+	background-color: black;
+}
+.baslık{
+	margin-top:15px; 
+	margin-left: 8px;
+	color: black;
+	height: 29px;
+	width: 103px;
+	font-size: 35px;
+	float: left;}
+.search{
+	margin-top: 12px;
+	float: left;
+	margin-left: 100px;
+	width: 200px;
+	height: 40px;}
+.arama{
+	margin-top: 10px;
+	width: 215px;
+	height: 24px;}
+.button{
+	width: 200px;
+	height: 28px;
+	padding: 10px;
+	margin-top: 15px;
+	margin-right: 150px;
+	float: right;}
+.kesfet{
+	margin-right: 30px;
+	width: 24px;
+	height: 24px;
+	float: right;}
+.begen{
+	margin-right: 30px;
+	width: 24px;
+	height: 24px;
+	float: right;}
+.hesabım{
+	width: 24px;
+	height: 24px;
+	float: right;}
+
+
+.post{
+	position: relative;
+	margin-top: 50px;
+	margin-left:200px;
+	width: 600px;
+	height:940px;}
+.kisi{
+	margin-top:20px;
+	width: 600px;
+	height: 60px;
+	border:groove white 2px;
+	border-top-right-radius:3px;
+	border-top-left-radius:3px;
+	background-color: white;}
+.profil{
+	float: left;
+	font-size: 40px;
+	margin: 10px;
+	border-radius: 50%;
+	overflow: hidden;
+ 	width: 40px;
+  	height: 40px;}
+.profil img{display: block;
+ 	min-width: 100%;
+  	min-height: 100%;}
+.isim{
+	padding: 17.5px;
+	width: 200px;
+ 	height: 50px;
+ 	font-size: 20px;
+	font-weight: 500;
+	color: black;}
+.foto{
+	width: 600px;
+	height: 600px;
+	border-top:groove white 2px;
+	border-right:groove white 2px;
+	border-left:groove white 2px;
+	margin-top: 1px;}
+.foto img{ 
+  	width: 600px;
+  	height: 600px;
+  	object-fit: cover;}
+ .alt{
+ 	width: 600px;
+ 	height: 250px;
+ 	background-color: white;
+ 	border:groove white 2px;
+ 	border-right:groove white 2px;
+	border-left:groove white 2px;}
+.altbutonlar{
+	width: 600px;
+	height:40px;} 
+.altbegen{
+	width: 24px;
+	height: 24px;
+	margin:10px;
+	margin-left: 15px; 
+	float: left;}
+.altyorum{
+	width: 24px;
+	height: 24px;
+	float: left;
+	margin: 10px;}
+.altkaydet{
+	width: 24px;
+	height: 24px;
+	float: right;
+	margin: 10px;
+	margin-right: 15px;}
+.yorumlar{
+	padding-top: 5px;
+	background-color: blue;
+	width: 600px;
+	height: 150px;}
+.yorumyapma{
+
+	border-top:groove white 2px;
+	background-color: red;	
+	width: 600px;
+	height: 60px;}
+.yorumyazan{
+	height: 18px;
+	width: 60px;
+	font-weight: bold;
+	margin-left: 10px;
+	float: left;
+}

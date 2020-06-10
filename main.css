@@ -1,0 +1,255 @@
+body{
+	background-color: #f0f0f0;
+	margin: 0px;
+	font-family:opensans;}
+p{	margin: 0px;
+	font-family: opensans;}
+a{color:transparent;} 
+.headerclear{
+	position: relative;
+	height: 77px;
+	width: 1130px;}
+.header{	
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	padding-left: 135px;
+	height: 77px;
+	width: 1130px;
+	border-bottom: groove white 1px;
+	background-color: white;
+	margin: 0px;
+ 	z-index: 1;}
+.ustsol{
+	width: 299px;
+	height: 36px;
+	float: left;}
+.logo{ 
+	margin-top: 27px;
+	height: 24px;
+	width: 24px;
+	float: left;}
+.cizgi{
+	margin-top: 24.5px;
+	margin-left: 15px;
+	margin-right: 10px;
+	float: left;
+	width: 0.5px;
+	height: 28px;
+	background-color: black;}
+.baslık{
+	margin-top:22px; 
+	margin-left: 8px;
+	color: black;
+	height: 29px;
+	width: 103px;
+	font-family:lobster;
+	font-size: 25px;
+	float: left;}
+.search{
+	margin-top: 12px;
+	float: left;
+	margin-left: 85px;
+	width: 200px;
+	height: 40px;}
+.arama{
+	outline:none;
+	margin-top: 10px;
+	padding-left: 10px;
+	width: 200px;
+	height: 24px;}
+.button{
+	width: 200px;
+	height: 28px;
+	padding: 10px;
+	margin-top: 16.5px;
+	margin-right: 150px;
+	float: right;}
+.kesfet{
+	margin-right: 30px;
+	width: 24px;
+	height: 24px;
+	float: right;}
+.begen{
+	margin-right: 30px;
+	width: 24px;
+	height: 24px;
+	float: right;}
+.hesabım{
+	width: 24px;
+	height: 24px;
+	float: right;}
+
+.post{
+	position: relative;
+	margin-top: 40px;
+	margin-left:150px;
+	width: 600px;
+	height:900px;
+	float: left;}
+.kisi{
+	margin-bottom: 0px;
+	width: 600px;
+	height: 60px;
+	border-top:groove white 2px;
+	border-right:groove white 2px;
+	border-left:groove white 2px;
+	border-top-right-radius:3px;
+	border-top-left-radius:3px;
+	background-color: white;}
+.profil{
+	float: left;
+	font-size: 40px;
+	margin: 10px;
+	border-radius: 50%;
+	overflow: hidden;
+ 	width: 40px;
+  	height: 40px;}
+.profil img{display: block;
+ 	min-width: 100%;
+  	min-height: 100%;}
+.isim{
+	padding: 17.5px;
+	width: 200px;
+ 	height: 50px;
+ 	font-size: 15px;
+	font-weight:900;
+	color: black;}
+.foto{
+	width: 600px;
+	height: 600px;
+	border-right:groove white 2px;
+	border-left:groove white 2px;
+	border-right:groove white 2px;
+	border-left:groove white 2px;
+	margin-top: 0px;}
+.foto img{ 
+  	width: 600px;
+  	height: 600px;
+  	object-fit: cover;}
+.alt{
+ 	width: 600px;
+ 	height: 220px;
+ 	background-color: white;
+ 	border:groove white 2px;
+ 	border-right:groove white 2px;
+	border-left:groove white 2px;}
+.altbutonlar{
+	width: 600px;
+	height:40px;} 
+.altbegen{
+	width: 24px;
+	height: 24px;
+	margin:10px;
+	margin-left: 15px; 
+	float: left;}
+.altyorum{
+	width: 24px;
+	height: 24px;
+	float: left;
+	margin: 10px;}
+.altkaydet{
+	width: 24px;
+	height: 24px;
+	float: right;
+	margin: 10px;
+	margin-right: 15px;}
+.yorumlar{
+	padding-left: 15px;
+	padding-top: 5px;
+	width: 575px;
+	height: 120px;
+	font-size: 15px;}
+.yorumyapma{
+	border-top:groove white 2px;
+	width: 600px;
+	height: 50px;}
+.yorumyazan{
+	margin-right: 5px;
+	font-weight: bold;
+	float: left;}
+.yorumsatırı{
+	outline: none;
+	font-size: 15px;
+	margin: 0px;
+	float: left;
+	padding-left: 10px;
+	width:510px;
+	height:45px;
+	border-color: transparent;
+	}
+.paylas{
+	outline:none;
+	margin-top:12.5px;
+	margin-left:0px; 
+	color: #1e90ff;
+	font-weight: 600;
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 15px;}
+.sagmenu{
+	position: fixed;
+	margin-left: 780px;
+	margin-top: 40px;
+	width: 300px;
+	height: 440px;
+	background-color: transparent;}
+.sagkisi{
+	height: 60px;
+	width: 300px;
+	background-color: transparent;}
+.hikayeler{
+	padding-top:5px;
+	padding-left:15px;
+	width: 295px;
+	height: 200px;
+	background-color: white;
+	border:groove 2px white;
+	border-radius: 4px;}
+.oneriler{
+	color: #f0f0f0;
+	padding-top:5px;
+	padding-left: 15px;
+	margin-top: 10px;
+	width: 295px;
+	height: 180px;
+	background-color: white;
+	border:groove 2px white;
+	border-radius: 4px;}
+.onerilenprofil{
+	float: left;
+	font-size: 40px;
+	margin-left:0px;
+	border-radius: 50%;
+	overflow: hidden;
+ 	width: 40px;
+  	height: 40px;}
+.onerilenprofil img{display: block;
+ 	min-width: 100%;
+  	min-height: 100%;}
+.onerilenisim{
+	padding-top:7.5px;
+	padding-left: 50px;
+	width: 200px;
+ 	height: 40px;
+ 	font-size: 15px;
+	font-weight:900;
+	color: black;}
+.oneri{
+	width: 295px;
+	height: 50px;
+}
+.h{
+	margin: 5px;
+	color: gray;}
+.takip{
+	outline:none;
+	margin-top:7.5px;
+	padding-right: 30px;
+	float: right;
+	color: #1e90ff;
+	font-weight: 600;
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 12px;}
+
